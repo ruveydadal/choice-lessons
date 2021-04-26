@@ -1,0 +1,31 @@
+Öğrencinin adı:Ruveyda Nur Dal
+Öğrencinin numarası:19106
+                Ders Adı              
+301-Veritabanı Yönetim Sistemleri  
+305-Algoritma Analizi  
+307-Mikroişlemciler  
+309-Mühendislikte Matematik Yöntemleri  
+461-Güneş Enerjisi
+358-Nano Malzemeler
+464-Robotik Tutucu Sistemleri
+
+                Ders Adı               |  Kredi  |  AKTS  |   Dersin Koordinatörü  
+301-Veritabanı Yönetim Sistemleri          5         5          Demir Beyaz
+305-Algoritma Analizi                      5         4          Ahmet Kitap
+307-Mikroişlemciler                        4         4          Ayşe An
+309-Mühendislikte Matematik Yöntemleri     3         5          Ferhat Orman
+461-Güneş Enerjisi			3	5	Ömer  Siyah
+358-Nano Malzemeler			4	5	Mehmet Genç
+464-Robotik Tutucu Sistemleri			3	4	Ahmet Yılmaz
+
+Öğrencinin adı:Arzum Sena
+Öğrencinin numarası:19101
+                Ders Adı               |  Kredi  |  AKTS  |   Dersin Koordinatörü  
+301-Veritabanı Yönetim Sistemleri          5         5          Demir Beyaz
+305-Algoritma Analizi                      5         4          Ahmet Kitap
+307-Mikroişlemciler                        4         4          Ayşe An
+309-Mühendislikte Matematik Yöntemleri     3         5          Ferhat Orman
+463-Elektrik Enerjisi Üretimi			3	5	Zeynep Yeşil
+358-Nano Malzemeler			4	5	Mehmet Genç
+357-Veri İletişimi			5	4	Ali Silgi
+

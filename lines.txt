@@ -1,0 +1,19 @@
+             ZORUNLU DERSLER
+301-Veritabanı Yönetim Sistemleri	
+305-Algoritma Analizi	
+307-Mikroişlemciler			
+309-Mühendislikte Matematik Yöntemleri
+             SEÇMELİ DERSLER
+351-Görüntü İşlemenin Temelleri	
+353-İnsan Bilgisayar Etkileşimi	
+355-Robot Programlama
+357-Veri İletişimi	
+359-Kriptolojiye Giriş
+361-Bilgisayar Mühendisleri için Sinyaller ve Sistemler		
+363-Mobil Yazılım Geliştirme		
+463-Elektrik Enerjisi Üretimi		
+475-Teknoloji Ekonomisi	
+453-Coğrafi Bilgi Sistemleri	
+461-Güneş Enerjisi	
+464-Robotik Tutucu Sistemleri	
+358-Nano Malzemeler	
